@@ -1,3 +1,4 @@
 dit is een tekstbestand
 een toegevoegde lijn
+lijn 4
 dit is een tweede lijn
